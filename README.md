@@ -43,5 +43,6 @@
  </table>
  </p>
  </li>
+ <li>For implementation, please go to <a href="https://github.com/KeithGalli/sklearn/blob/master/Tutorial.ipynb">https://github.com/KeithGalli/sklearn/blob/master/Tutorial.ipynb</a><ul><li>It includes the steps like data preparing, bag of words vectorization, classifier types (such as svm, decision tree, naive baynes, logistic regression), model evaluation (such as mean accuracy, f1 score for each sentiment), grid search for tunning model parameters and model saving and loading using pickle</li></ul></li>
 </ul>
 </ol>
